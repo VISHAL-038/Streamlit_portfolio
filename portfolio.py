@@ -28,7 +28,6 @@ st.write("""
 
 
 ##### Certifications & Self-Learning
-Here’s a more concise version with a different explanation style:
 
 - **IBM Data Science Professional Certificate:** Completed training in Python, data analysis, and machine learning, focusing on statistical techniques and model evaluation.
   
