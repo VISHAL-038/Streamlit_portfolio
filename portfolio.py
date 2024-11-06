@@ -19,12 +19,10 @@ st.success(" ")
 # Qualifications
 st.subheader("Qualifications")
 st.write("""
-**Bacholers of Technology - Computer Science Engineering** (2021-2025)
+**Bachelors of Technology - Computer Science Engineering** (2021-2025)
 
 - Rayat Bahra University, Punjab 
 - CGPA: 7.86/10
-
-
 
 
 ##### Certifications & Self-Learning
